@@ -1,0 +1,4 @@
+name: mail
+
+version: 0.0.1
+compatibility: ">=0.13.0,<0.14"
