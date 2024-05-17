@@ -18,5 +18,5 @@ ANYMAIL = {
 EMAIL_SITE_NAME = Config.string('ZIMAGI_EMAIL_SITE_NAME', 'Nexical Federal Contract Explorer')
 ROOT_EMAIL_URL = Config.string('ZIMAGI_ROOT_EMAIL_URL', 'https://contracts.nexical.ai')
 
-DEFAULT_FROM_EMAIL = Config.string('ZIMAGI_DEFAULT_FROM_EMAIL', 'Nexical Contracts <noreply@contracts.nexical.ai>')
+DEFAULT_FROM_EMAIL = Config.string('ZIMAGI_DEFAULT_FROM_EMAIL', 'Nexical Contracts <noreply@nexical.email>')
 EMAIL_SUBJECT_PREFIX = Config.string('ZIMAGI_EMAIL_SUBJECT_PREFIX', '')
